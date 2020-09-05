@@ -1,0 +1,10 @@
+C:\Users\geetg\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\geetg\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\geetg\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\geetg\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csprojAssemblyReference.cache
+C:\Users\geetg\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.Form1.resources
+C:\Users\geetg\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\geetg\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\geetg\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\geetg\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\geetg\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
