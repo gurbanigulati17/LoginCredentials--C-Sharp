@@ -5,7 +5,7 @@ These values are matched against the predefined database made if the values matc
 
 Folder:
 1. DB- Contains Database File in MDF and LDf Type as well as the Login Table
-2. LoginForm- CIntains the whole structure and implementation of the code.
+2. LoginForm- Contains the whole structure and implementation of the code.
 3. Home.png:- The Home screen GUI of Login Credentials Form.
 4. Valid Credentials.png- The snapshot of successful Login.
 5. Invalid Credentials.png- The snapshot of Invalid Login message.
