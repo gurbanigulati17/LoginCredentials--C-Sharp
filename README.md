@@ -11,7 +11,7 @@ Folder:
 5. Invalid Credentials.png- The snapshot of Invalid Login message.
 
 Note:
-If you wanna clone this projec. Just make changes to your Connection string path. Exclude the already written and cpy paste the github mdf file path.
+If you wanna clone this project. Just make changes to your Connection string path. Exclude the already written and copy paste the github mdf file path.
 
 
 This Login Page is built using C sharp and .Net Framework with Windows Form App Template.
